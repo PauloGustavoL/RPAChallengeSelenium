@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2qxK8eyYoV3hRAHRxlVTFsFenyYRSINYC15pVgTVW2VlTLRDHx8ZP5ELy+iQLTkBh+qcudHVHMEF+tNEq5SnOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fiska\\Desktop\\projetos\\RPAChallengeSelenium\\RPA\\RPA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fiska\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "C:\\Users\\fiska\\.nuget\\packages\\ironsoftware.system.drawing\\2023.7.1\\ironsoftware.system.drawing.2023.7.1.nupkg.sha512",
+    "C:\\Users\\fiska\\.nuget\\packages\\ironxl.excel\\2023.7.4\\ironxl.excel.2023.7.4.nupkg.sha512",
+    "C:\\Users\\fiska\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\fiska\\.nuget\\packages\\selenium.webdriver\\4.10.0\\selenium.webdriver.4.10.0.nupkg.sha512",
+    "C:\\Users\\fiska\\.nuget\\packages\\sixlabors.imagesharp\\3.0.0\\sixlabors.imagesharp.3.0.0.nupkg.sha512",
+    "C:\\Users\\fiska\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
